@@ -17,7 +17,7 @@
             "href": "https://www.foo.com"
           },
           {
-            "type": "secodary",
+            "type": "secondary",
             "title": "Not Me",
             "href": "https://www.bar.com"
           }
@@ -38,7 +38,7 @@
             "href": "https://www.foo.com"
           },
           {
-            "type": "secodary",
+            "type": "secondary",
             "title": "Not Me",
             "href": "https://www.bar.com"
           }
@@ -59,7 +59,7 @@
             "href": "https://www.foo.com"
           },
           {
-            "type": "secodary",
+            "type": "secondary",
             "title": "Not Me",
             "href": "https://www.bar.com"
           }
@@ -85,7 +85,7 @@
             "href": "https://www.foo.com"
           },
           {
-            "type": "secodary",
+            "type": "secondary",
             "title": "Not Me",
             "href": "https://www.bar.com"
           }
