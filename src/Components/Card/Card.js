@@ -2,6 +2,9 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { If } from '../If/If';
 
+/**
+ * Renders a `Card` composed of title, copy, media, and links.
+ */
 const Card = (props) => {
   const card = props.card || [];
 

@@ -2,6 +2,9 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { If } from '../If/If';
 
+/**
+ * Renders a `Deck` composed of content passed in from `props.children`.
+ */
 const Deck = (props) => {
   const deck = props.deck || [];
 

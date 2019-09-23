@@ -1,6 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+/**
+ * A simple nav component with links.
+ */
 const Nav = () => {
   return (
     <nav>

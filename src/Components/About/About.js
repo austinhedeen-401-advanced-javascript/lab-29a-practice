@@ -1,5 +1,8 @@
 import React from 'react';
 
+/**
+ * A static page about the organization.
+ */
 const About = () => {
   return (
     <>

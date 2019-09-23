@@ -6,6 +6,9 @@ import Nav from '../Nav/Nav';
 import Page from '../Page/Page';
 import content from '../../content';
 
+/**
+ * The root component of the application.
+ */
 const App = () => {
   return (
     <>
